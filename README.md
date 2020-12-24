@@ -1,5 +1,5 @@
 <h2>Gala icon set</h2>
-<p>Gala is a simple high-contrast icon set designed for use with light-themed user interfaces.
+<p>Gala is a clean and simple high-contrast icon set designed for use with light-themed user interfaces.
 <h2>License</h2>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> (CC BY-SA 4.0).
 <h4>You are free to</h4>
