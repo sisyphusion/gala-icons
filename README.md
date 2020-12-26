@@ -1,4 +1,4 @@
-![banner](https://github.com/sisyphusion/gala-icons/blob/main/gala-extra/banner.png)
+![banner](https://github.com/sisyphusion/gala-icons/blob/main/gala-extra/banner.svg)
 
 <h2>Gala icon set</h2>
 <p>Gala is a clean and simple high-contrast icon set designed for use with light-themed user interfaces.
