@@ -12,13 +12,13 @@
    viewBox="0 0 67.733332 67.733333"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (f992d3b87e, 2020-12-16)"
+   inkscape:version="1.0.1 (3cb09a5c97, 2020-12-24)"
    sodipodi:docname="lifebuoy.svg"
    inkscape:export-filename="/home/jewells/Documents/Git/nox-icons/png/console.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <title
-     id="title851">Nox icon set</title>
+     id="title851">Gala icon set</title>
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -306,10 +306,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Nox icon set</dc:title>
+        <dc:title>Gala icon set</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:source>https://github.com/sisyphusion/nox-icons</dc:source>
+        <dc:source>https://github.com/sisyphusion/gala-icons</dc:source>
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
